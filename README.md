@@ -24,7 +24,7 @@ webpack_test_01.js文件
  webpack-dev-server --content-base public
 
 #git
-git add.
-git commit 
-git push origin master
+*git add.
+*git commit 
+*git push origin master
 
