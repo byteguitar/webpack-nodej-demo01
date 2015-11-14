@@ -1,0 +1,22 @@
+{
+  "name": "tcwebpack ",
+  "description": "Basic example of using React with CommonJS",
+
+  "dependencies": {
+
+    
+  },
+
+  "devDependencies": {
+  "jquery": "^1.7.4",
+   "css-loader":"^0.22.0"
+  },
+  "scripts": {
+      "start":"webpack --config webpack.config.js  ",
+    "start_3":"webpack --config webpack02.config.js --progress --colors --watch",
+     "start_2": " webpack  -d webpack_test_02.js  public/bundle.js  --module-bind  css=style!css",
+      "comment":"注意取掉双引号"
+
+  }
+
+}
