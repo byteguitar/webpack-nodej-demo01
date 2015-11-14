@@ -23,3 +23,8 @@ webpack_test_01.js文件
  指定目录public,内置express运行
  webpack-dev-server --content-base public
 
+#git
+git add.
+git commit 
+git push origin master
+
